@@ -10,7 +10,7 @@ votación, por lo que prima la simplicidad por encima de la eficiencia
 cuando sea posible. Por lo tanto se asumen algunas carencias para permitir
 que sea entendible y extensible.
 
-
+hola
 Subsistemas, apps y proyecto base
 ---------------------------------
 
